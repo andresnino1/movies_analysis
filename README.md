@@ -23,13 +23,22 @@ to expand on it too!
 
 
 Q01. Produce a table with the number of movies released, average running time, average ratings and total number of votes by year from 1990 to 2000 only.
+
 Q02. Which are the top five ranked movies? Order them by the highest rank, then the highest number of votes.
+
 Q03. Produce a list of the top 20 action movies and their launch year in a descending order based on average ratings.
+
 Q04. Create a list of directors, including the number of movies they’ve made, their gross income, average income per movie and the maximum and minimum ranks they’ve received for
 movies they’ve directed. Order by the director with the highest average income.
+
 Q05. Which action movies were directed by Ridley Scott or Steven Spielberg?
+
 Q06. What were the top 10 directors of comedy movies based on the number of movies directed in the ‘90s with a average running time of < 100 minutes?
+
 Q07. What is the difference in ratings of short movies that were released prior to 1990 relative to all the other movies?
+
 Q08. How many non-English movies lasting at least two hours were made since 1998? Show the number of movies made in each language and the average runtime.
+
 Q09. Which French and Spanish language movie genre attract the highest average rating with the lowest number of votes?
+
 Q10. Come up with your own question!
